@@ -107,10 +107,10 @@ p
         background-color: rgb(185, 184, 184);
     }
 
-    #box    
+p
     {
-    border: 1px solid rgb(218, 216, 216);
     width: 70%;
+    font-size: 12px;
     }
     
 .space
