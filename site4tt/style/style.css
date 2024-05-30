@@ -1,6 +1,6 @@
 html, body
     {
-       background-color:rgb(218, 216, 216); 
+       background-color:rgb(240, 239, 239); 
        margin: 0;
        padding: 0;
        height: 100%;
@@ -43,6 +43,7 @@ h1
     font-family: 'Times New Roman', Times, serif;
     font-size: 35px;
     margin: 10px;
+    text-decoration: underline dotted;
     }
 
 h2, h3
@@ -144,5 +145,10 @@ p
         width: 90%;
         text-align: center;
         float: center;
+    }
+
+ul
+    {
+        text-align: center;
     }
 
