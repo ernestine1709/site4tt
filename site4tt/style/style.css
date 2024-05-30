@@ -166,3 +166,47 @@ p
         margin: none;
         box-sizing: border-box;
     }
+    .Ernestine
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: right;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box;
+    }
+    .Ernestine2
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: left;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box;
+    }
+    .Ernestine3
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: left;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box; 
+    }
+    .Ernestine4
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: right;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box; 
+    }
