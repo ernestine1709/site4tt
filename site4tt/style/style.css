@@ -45,7 +45,7 @@ h1
     margin: 10px;
     }
 
-h2, h3, h4
+h2, h3
     {
         margin: 10px;
     }
@@ -53,6 +53,8 @@ h2, h3, h4
 p
     {
         margin: 10px;
+        width: 70%;
+        font-size: 20px;
     }
 
 #accueil
@@ -107,12 +109,6 @@ p
         background-color: rgb(185, 184, 184);
     }
 
-p
-    {
-    width: 70%;
-    font-size: 20px;
-    }
-    
 .space
     {
         margin-bottom: 32px;
