@@ -110,7 +110,7 @@ p
 p
     {
     width: 70%;
-    font-size: 12px;
+    font-size: 20px;
     }
     
 .space
@@ -121,4 +121,48 @@ p
 .vent
     {
         margin: 10px; 
+    }
+    .keny
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: left;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box;
+    }
+    .keny2
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: right;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box;
+    }
+    .keny3
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: left;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box;
+    }
+    .keny4
+    {
+        border: solid rgb(218, 216, 216);
+    
+        text-align: center;
+        float: right;
+        width: 50%;
+        padding: none;
+        margin: none;
+        box-sizing: border-box;
     }
