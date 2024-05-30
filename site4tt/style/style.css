@@ -140,3 +140,10 @@ p
         box-sizing: border-box;
     }
 
+.tquot
+    {
+        width: 80%;
+        text-align: center;
+        float: left;
+    }
+
